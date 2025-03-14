@@ -40,7 +40,7 @@ public class LoginPage extends JFrame implements ActionListener {
         add(titleLabel, BorderLayout.NORTH);
 
         // Center Panel for Form with Background Image
-        BackgroundPanel centerPanel = new BackgroundPanel("src/com/CGU/PROJECT/SCREENSHOTS/LOGIN_BACKGROUND.jpg"); // Update with your image path
+        BackgroundPanel centerPanel = new BackgroundPanel("src/com/CGU/PROJECT/LOGIN_BACKGROUND.jpg"); // Update with your image path
         centerPanel.setLayout(new GridBagLayout());
         GridBagConstraints gbc = new GridBagConstraints();
         gbc.insets = new Insets(15, 15, 15, 15);
