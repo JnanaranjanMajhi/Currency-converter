@@ -55,8 +55,8 @@ public class CurrencyConverterUI extends ImageFrame implements ActionListener {
     private static final Color LIGHT_INPUT = new Color(255, 255, 255);
     private boolean isDarkMode = false;
 
-    private static final String LIGHT_MODE_IMAGE_PATH = "src/com/CGU/PROJECT/SCREENSHOTS/BACKGROUND.jpg"; // Light mode image path
-    private static final String DARK_MODE_IMAGE_PATH = "src/com/CGU/PROJECT/SCREENSHOTS/DARK.png"; // Dark mode image path
+    private static final String LIGHT_MODE_IMAGE_PATH = "src/com/CGU/PROJECT/BACKGROUND.jpg"; // Light mode image path
+    private static final String DARK_MODE_IMAGE_PATH = "src/com/CGU/PROJECT/DARK.png"; // Dark mode image path
 
     public CurrencyConverterUI() {
         super(LIGHT_MODE_IMAGE_PATH); // Start with light mode image
