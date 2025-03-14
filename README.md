@@ -17,7 +17,7 @@ A comprehensive Java-based Currency Converter application featuring a user-frien
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/JnanaranjanMajhi/Currency-converter>
    ```
 2. Navigate to the project directory:
    ```bash
